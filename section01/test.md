@@ -1,3 +1,7 @@
-글씨를 강조하기 위해서 __글씨를 굵게__하거나 *기울림꼴*을 자주 사용합니다.
+*This text will be italic*
+_This will also be italic_
 
-__*굵은데다가 기울림*__을 함께 적용하려면 
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
