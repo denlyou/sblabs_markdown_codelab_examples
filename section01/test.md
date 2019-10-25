@@ -1,7 +1,3 @@
-*This text will be italic*
-_This will also be italic_
+글씨를 강조하기 위해서 **글씨를 굵게**하거나 _기울림꼴_을 자주 사용합니다.
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+**굵은데다가 _기울림_**을 함께 적용하려면 
