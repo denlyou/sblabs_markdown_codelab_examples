@@ -3,7 +3,15 @@
 ```c
 #include<stdio.h>
 int main(){
-  printf("hello world");
+  printf("Hi C World");
+}
+```
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("Hi Java World")
+    }
 }
 ```
 
@@ -13,7 +21,15 @@ int main(){
 ```c
 #include<stdio.h>
 int main(){
-  printf("hello world");
+  printf("Hi C World");
+}
+```
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("Hi Java World")
+    }
 }
 ```
 ````
