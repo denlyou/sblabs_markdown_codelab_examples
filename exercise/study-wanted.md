@@ -24,6 +24,6 @@
 - 참가비 : 약 5,000원 (개인 음료비)
 
 ## 문의 및 연락처
-홈페이지: <https://incheon.devs.co.kr>  
+홈페이지 : <https://incheon.devs.co.kr>  
 전자메일 : <incheon.devs@gmail.com>  
 또는 [카카오톡 오픈채팅방](http://chat.devs.co.kr)
